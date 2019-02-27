@@ -3,4 +3,46 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <!-- White -->
+    <color name="colorWhite1">#ffffff</color>
+    <color name="colorWhite2">#9fffffff</color>
+    <color name="colorWhite3">#a1ffffff</color>
+    <color name="transparent30White">#4dffffff</color>
+    <color name="transparent20White">#33ffffff</color>
+
+    <!-- Blue -->
+    <color name="colorBlue1">#1E88E5</color>
+    <color name="colorBlue2">#1C96D4</color>
+    <color name="colorBlue3">#01dad7</color>
+    <color name="colorBlue4">#2274fc</color>
+    <color name="colorBlue5">#00C7C4</color>
+    <color name="colorBlue6">#012D74</color>
+
+    <!-- Black -->
+    <color name="colorBlack1">#1e1e1e</color>
+    <color name="colorBlack2">#646464</color>
+    <color name="colorBlack3">#9e9e9e</color>
+    <color name="colorBlack4">#dce1ed</color>
+    <color name="colorBlack5">#e8ebf2</color>
+    <color name="colorBlack6">#acaebb</color>
+    <color name="colorBlackTransparent">#b7dce1ed</color>
+    <color name="colorBlack7">#e8ebf2</color>
+    <color name="colorBlack8">#E2E2E2</color>
+
+    <color name="colorBlackTransparent2">#51000000</color>
+
+    <!-- Green -->
+    <color name="colorGreen1">#27c124</color>
+    <color name="colorGreen2">#28c725</color>
+    <color name="colorGreen3">#2cdc29</color>
+
+    <!-- Red -->
+    <color name="colorRed1">#ff0011</color>
+    <color name="colorRed2">#fca800</color>
+    <color name="colorRed3">#BFFF0000</color>
+    <color name="colorRed4">#8bff0011</color>
+
+    <!-- Yellow -->
+    <color name="colorYellow1">#e8ef0f</color>
 </resources>
